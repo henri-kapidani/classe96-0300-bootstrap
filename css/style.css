@@ -1,0 +1,34 @@
+/* .bg1 {
+	background-color: salmon;
+}
+
+.bg2 {
+	background-color: brown;
+} */
+
+/* .container {
+	background-color: crimson;
+}
+
+[class*="col"] {
+	border: 2px solid black;
+}
+
+[class*="col"]:nth-child(odd) {
+	background-color: gold;
+}
+
+[class*="col"]:nth-child(even) {
+	background-color: cyan;
+} */
+
+.ex20 .row {
+	background-color: aqua;
+	height: 300px;
+}
+
+.contents {
+	background-color: coral;
+	padding: 50px;
+	height: 100%;
+}
